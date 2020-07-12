@@ -17,9 +17,3 @@
   <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://www.facebook.com/NirbhaySingh01/">Facebook</a>
  </samp>
 </p>
-<p align="center">
-  
-[![Nirbhay's Stats](https://github-readme-stats.vercel.app/api?username=Nirbhay007&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-</samp>
