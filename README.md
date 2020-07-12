@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100px">
  <br><br>
  <samp>
-  - 👯 I’m looking to collaborate on Open Source Organizations <br>
+  - 👯 I’m looking to collaborate on any Open Source Projects.<br>
   - 🔭 I’m currently working on improving my skills. <br>
   - 📫 Let's connect : <a href="https://www.linkedin.com/in/nirbhay-singh-349aba12a/">LinkedIn</a> <br>
 
