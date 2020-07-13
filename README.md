@@ -17,3 +17,6 @@
   <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://www.facebook.com/NirbhaySingh01/">Facebook</a>
  </samp>
 </p>
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=Nirbhay007.Nirbhay007"/>
+</p>
