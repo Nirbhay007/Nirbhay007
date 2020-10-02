@@ -8,8 +8,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Nirbhay007)
 
  <samp>
-  - 👯 I’m looking to collaborate on any Open Source Projects.<br>
-  - 🔭 I’m currently working on improving my skills. <br>
+  -👯 I’m looking to collaborate on any Open Source Projects.<br>
+  -🔭 I’m currently working on improving my skills. <br>
+  - 🌌  SPACE 🚀 LOVER <br>
 
   <br></br>
   
