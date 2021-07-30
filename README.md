@@ -4,7 +4,7 @@
  <br><br>
   
 [![Linkedin Badge](https://img.shields.io/badge/-Nirbhay%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nirbhay-singh-349aba12a/)](https://www.linkedin.com/in/nirbhay-singh-349aba12a/)[![GitHub followers](https://img.shields.io/github/followers/Nirbhay007?label=Follow&style=social)](https://github.com/Nirbhay007/?tab=follow)
-![visitors](https://hit-badger.glitch.me/badge?page_id=Nirbhay007.id)
+
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Nirbhay007)
 
  <samp>
