@@ -22,7 +22,7 @@
 <p align="center">
  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="240px" align="center">
  <samp>
-  <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://www.facebook.com/NirbhaySingh01/">Facebook</a>
+  <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://linkedin.com/in/nirbhay-singh-349aba12a/">Linkedin</a>
  </samp>
 </p>
 <br>
