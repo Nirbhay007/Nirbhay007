@@ -79,34 +79,19 @@ clear, simple, and impossible to misunderstand.
   </tr>
 </table>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nirbhay007&show_icons=true&count_private=true&theme=dark&hide_border=true"
-    alt="GitHub stats"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay007&layout=compact&theme=dark&hide_border=true"
-    alt="Top languages"
-    height="140"
-  />
-</p>
-
 
 🐍 Contribution Snake (YES, THIS MOVES)
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Nirbhay007/Nirbhay007/output/github-contribution-grid-snake.svg"
-    alt="contribution snake"
+    style="
+      filter:
+        drop-shadow(0 0 6px #00f5ff)
+        drop-shadow(0 0 12px #00f5ff)
+        drop-shadow(0 0 20px #00f5ff);
+    "
   />
 </p>
-
 
 
 ☕ Let’s Connect
