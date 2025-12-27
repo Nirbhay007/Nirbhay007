@@ -83,7 +83,7 @@ clear, simple, and impossible to misunderstand.
 🐍 Contribution Snake (YES, THIS MOVES)
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Nirbhay007/Nirbhay007/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Nirbhay007/Nirbhay007/output/github-contribution-grid-snake-dark.svg"
     style="
       filter:
         drop-shadow(0 0 6px #00f5ff)
