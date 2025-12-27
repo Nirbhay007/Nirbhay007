@@ -1,62 +1,86 @@
-### 👋 Hello World, I'm [Nirbhay!](https://nirbhay007.github.io/my-website)
+<!-- TOP WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nirbhay%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100px">
-  <br><br>
-
-  [![Linkedin Badge](https://img.shields.io/badge/-Nirbhay%20Singh-blue?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/nirbhay-singh-349aba12a/)
-  [![GitHub followers](https://img.shields.io/github/followers/Nirbhay007?label=Follow&style=social)](https://github.com/Nirbhay007/?tab=follow)
-
-  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Nirbhay007)
-
-  <samp>
-    👨‍💻 Full-Stack Developer with a strong focus on Backend Systems<br>
-    🔭 Currently improving my backend, system design & scalability skills<br>
-    👯 Open to collaborating on Open Source & side projects<br>
-    🌌 Space & tech enthusiast 🚀<br><br>
-
-    ⚡ Fun fact: I enjoy building small things just to see how ideas behave in the real world.
-  </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Thinker+%26+Builder;I+like+clean+APIs+and+boring+code;Space+%F0%9F%9A%80+%7C+Scalability+%7C+Systems" />
 </p>
 
+---
+
+<!-- PROFILE GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="240px">
-  <samp>
-    <br><br>
-    ☕ Wanna chat? 👉 @ me on 
-    <a href="https://linkedin.com/in/nirbhay-singh-349aba12a/">LinkedIn</a>
-  </samp>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
 </p>
 
-<br><br>
+---
 
-**Languages and Tools:**  
+<!-- SOCIALS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirbhay-singh-349aba12a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nirbhay%20Singh-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Nirbhay007">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+## 🌌 About Me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"></code>
+I build systems the way I like explanations:
+clear, simple, and impossible to misunderstand.
+👨‍💻 Full-Stack Developer
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+🧠 Obsessed with system design, edge cases & scalability
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
+🔭 Currently leveling up backend architecture skills
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cloudflare/cloudflare.png"></code>
+👯 Open to open source & serious side projects
 
-<br><br>
+⚡ Fun fact: I can’t move on from a problem until I understand why it works
 
-<sub>
-NOTE: Top languages does not indicate my skill level — it reflects GitHub repository statistics, not proficiency.
-</sub>
+🛠 Tech Stack (Live & Visual)
+
+<table>
+  <tr>
+    <td width="180"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>🗄 Databases & Cache</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>☁️ Cloud & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,cloudflare&theme=dark"/>
+    </td>
+  </tr>
+</table>
+
+📊 GitHub Stats (Auto-Updating)
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nirbhay007&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Nirbhay007&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay007&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+🐍 Contribution Snake (YES, THIS MOVES)
+<p align="center"> <img src="https://github.com/Nirbhay007/Nirbhay007/blob/output/github-contribution-grid-snake.svg"/> </p>
+☕ Let’s Connect
+<p align="center"> <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="250"/> </p> <p align="center"> Wanna talk systems, scalability, or ideas?<br/> 👉 Reach out on <a href="https://linkedin.com/in/nirbhay-singh-349aba12a/">LinkedIn</a> </p> <!-- FOOTER WAVE --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> 
