@@ -78,9 +78,35 @@ clear, simple, and impossible to misunderstand.
   </tr>
 </table>
 
-📊 GitHub Stats (Auto-Updating)
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nirbhay007&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Nirbhay007&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay007&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nirbhay007&show_icons=true&count_private=true&theme=dark&hide_border=true"
+    alt="GitHub stats"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay007&layout=compact&theme=dark&hide_border=true"
+    alt="Top languages"
+    height="140"
+  />
+</p>
+
+
 🐍 Contribution Snake (YES, THIS MOVES)
-<p align="center"> <img src="https://github.com/Nirbhay007/Nirbhay007/blob/output/github-contribution-grid-snake.svg"/> </p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nirbhay007/Nirbhay007/output/github-contribution-grid-snake.svg"
+    alt="contribution snake"
+  />
+</p>
+
+
+
 ☕ Let’s Connect
 <p align="center"> <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="250"/> </p> <p align="center"> Wanna talk systems, scalability, or ideas?<br/> 👉 Reach out on <a href="https://linkedin.com/in/nirbhay-singh-349aba12a/">LinkedIn</a> </p> <!-- FOOTER WAVE --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> 
