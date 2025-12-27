@@ -15,8 +15,7 @@
     👯 Open to collaborating on Open Source & side projects<br>
     🌌 Space & tech enthusiast 🚀<br><br>
 
-    ⚡ Fun fact: There is no “perfect” time to sleep in my dictionary 😄<br>
-    ✨ Always excited to jump into hackathons — count me in!
+    ⚡ Fun fact: I enjoy building small things just to see how ideas behave in the real world.
   </samp>
 </p>
 
