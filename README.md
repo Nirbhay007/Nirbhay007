@@ -9,13 +9,13 @@
 
 ---
 
+
 <!-- PROFILE GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
 </p>
 
 ---
-
 <!-- SOCIALS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nirbhay-singh-349aba12a/">
@@ -24,6 +24,10 @@
   <a href="https://github.com/Nirbhay007">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nirbhay007&color=00f5ff&style=flat"/>
 </p>
 
 ## 🌌 About Me
